@@ -1,0 +1,57 @@
+header #img2{ 
+    width: 200px;
+    height: 75px;
+    margin: 25px 35px -25px -25px ;
+    
+}
+
+header li{
+display: inline-block;}
+
+header li ul {
+    display: inline-block;
+    font-size: 1cm;
+    color: brown;
+    margin: 10px;
+    position: relative;
+    left: 15px;
+    border: 0
+}
+
+header{
+background: rgb(142, 146, 139);
+text-align: center;}
+body div .img1 {
+  
+    width: 960px; ;
+    height: 450px ;
+    margin-top: 50px;
+    background-color: chocolate;
+position: sticky;
+    left: 188px;
+    top: 70px;
+    
+}
+
+body .img3 {
+    width: 300px;
+    height: 375px;
+    position: relative;
+    left: 188px;
+    top: 70px;
+}
+body div .img4{
+   width:50% ;
+   height: 480px; 
+   position: relative;
+   left: 188px;
+   top: 70px;
+ 
+  
+  
+   
+}
+footer{
+    background-color: lightslategray;
+    position:relative
+}
